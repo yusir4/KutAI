@@ -1,2 +1,2 @@
 # KutAI
-Kut AI
+Aims to create AI software using Python.
